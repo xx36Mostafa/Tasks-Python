@@ -1,0 +1,8 @@
+MACCCCCCCCCCCCCCC : Region Password Questions
+18-C0-4D-95-61-8E : Tr1 Tr2 Tr3
+C4-34-6B-51-C5-93 : Tr1 False False
+66-7C-C5-6C-9A-62 : False False False
+00-60-75-C3-0B-B1 : False False False
+00-23-DE-CD-D6-12 : False False False
+04-7C-16-B8-67-41 : False False False
+version: v1.0
