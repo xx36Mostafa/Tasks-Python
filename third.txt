@@ -1,4 +1,6 @@
 3br7man-b2:4e:77:8a:b4:51
 Qaiaty store-4e:7f:8b:54:3c:ac
 Admin-d8:5e:d3:47:e7:54
+Techno-2c:f0:5d:62:6a:a5
+
 version: v1.1
