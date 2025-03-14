@@ -6,5 +6,6 @@ BoDa-04:7c:16:b8:67:41
 hamo-8e:06:2e:f2:2e:62
 Techno-28:11:a8:24:3f:29
 konsh-00:05:91:35:a1:94
+MEGA-a8:a1:59:5d:d1:e8
 
 version: v1.1
