@@ -12,5 +12,6 @@ TiG-56:ad:1b:24:cc:88
 bahaa-a2:39:4c:99:6b:a4
 SNAKE-d8:43:ae:95:04:32
 MISHOO-d8:5e:d3:59:a7:ed
+mando-e8:9c:25:45:77:45
 
 version: v1.1
