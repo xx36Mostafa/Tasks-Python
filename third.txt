@@ -1,2 +1,2 @@
-
+magmag-a8:a1:59:5d:d1:e8
 version: v1.1
