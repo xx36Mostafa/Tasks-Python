@@ -1,18 +1,2 @@
-EISSA-60:cf:84:63:6f:d2
-3br7man-b2:4e:77:8a:b4:51
-Qaiaty store-4e:7f:8b:54:3c:ac
-Admin-d8:5e:d3:47:e7:54
-Techno-2c:f0:5d:62:6a:a5
-BoDa-04:7c:16:b8:67:41
-hamo-ce:3f:19:bf:46:0e
-Techno-28:11:a8:24:3f:29
-konsh-00:05:91:35:a1:94
-MEGA-a8:a1:59:5d:d1:e8
-TiG-56:ad:1b:24:cc:88
-bahaa-a2:39:4c:99:6b:a4
-SNAKE-d8:43:ae:95:04:32
-MISHOO-d8:5e:d3:59:a7:ed
-mando-e8:9c:25:45:77:45
-Administrator-d8:5e:d3:47:e7:54
-BoDa-00:00:00:00:00:00
+
 version: v1.1
