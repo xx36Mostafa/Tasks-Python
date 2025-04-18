@@ -1,3 +1,4 @@
-Qaiaty store-32:81:cd:b7:2d:50
-MISHOO-d8:5e:d3:59:a7:ed
+Qaiaty store-
+magmag-
+MISHOO-
 version: v1.1
